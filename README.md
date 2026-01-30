@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Student;Engineer;Developer" />
 </p>
----
 
 # 👨‍💻 About Me:
 A passionate Computer Science student who enjoys solving problems, building scalable applications, and constantly improving through hands-on learning and projects.
