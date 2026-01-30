@@ -89,8 +89,9 @@ I enjoy debugging more than writing code—it feels like solving a puzzle 🧩
 
 ---
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=YOUR_CODEFORCES_USERNAME&theme=dark" />
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Ayusharma17&theme=dark" />
 </p>
 ---
+
 ### ✨ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
