@@ -73,10 +73,20 @@ I enjoy debugging more than writing code—it feels like solving a puzzle 🧩
 ---
 
 # 📊 GitHub Stats:
+# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=AyuSharma176&theme=dark&hide_border=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AyuSharma176&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyuSharma176&theme=dark&hide_border=false&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AyuSharma176&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=AyuSharma176&theme=dark&hide_border=false" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyuSharma176&theme=dark&hide_border=false&layout=compact" />
+</p>
+
 
 
 ---
