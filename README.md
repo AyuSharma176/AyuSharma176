@@ -73,8 +73,6 @@ I enjoy debugging more than writing code—it feels like solving a puzzle 🧩
 ---
 
 # 📊 GitHub Stats:
-# 📊 GitHub Stats:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AyuSharma176&theme=dark&hide_border=false" />
 </p>
