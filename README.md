@@ -82,7 +82,7 @@ I enjoy debugging more than writing code—it feels like solving a puzzle 🧩
 ---
 ---
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/ayusharmaa?theme=dark&font=Fira%20Code&ext=heatmap" />
 </p>
 
 ---
