@@ -78,6 +78,11 @@ I enjoy debugging more than writing code—it feels like solving a puzzle 🧩
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyuSharma176&theme=dark&hide_border=false&layout=compact)
 
 ---
+---
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Fira%20Code&ext=heatmap" />
+</p>
 
+---
 ### ✨ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
