@@ -73,9 +73,11 @@ I enjoy debugging more than writing code—it feels like solving a puzzle 🧩
 ---
 
 # 📊 GitHub Stats:
+<p align="center">
 ![](https://github-readme-stats.vercel.app/api?username=AyuSharma176&theme=dark&hide_border=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AyuSharma176&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AyuSharma176&theme=dark&hide_border=false&layout=compact)
+</p>
 
 ---
 ---
