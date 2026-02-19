@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Ayush Sharma</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=600&color=36BCF7&center=true&vCenter=true&width=500&lines=Student;Engineer;Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=200&color=36BCF7&center=true&vCenter=true&width=500&lines=Student;Engineer;Developer" />
 </p>
 
 # About Me:
