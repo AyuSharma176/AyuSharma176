@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="120">
+</p>
 <h1 align="center">Hi, I'm Ayush Sharma</h1>
 
 <p align="center">
